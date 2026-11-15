@@ -2,7 +2,9 @@
 
 
 
-\## Unreleased
+\## 1.0.0
 
-\- Initial secure Gitflow practical.
+\- Initial secure Gitflow release.
+
+\- Add tax calculation feature.
 
