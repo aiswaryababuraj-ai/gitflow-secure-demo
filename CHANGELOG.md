@@ -2,7 +2,15 @@
 
 
 
-\## Unreleased
+\## 1.0.1
 
-\- Initial secure Gitflow practical.
+\- Add regression test and confirm rejection of zero quantity.
+
+
+
+\## 1.0.0
+
+\- Initial secure Gitflow release.
+
+\- Add tax calculation feature.
 
